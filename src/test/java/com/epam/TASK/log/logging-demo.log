@@ -1,0 +1,14 @@
+2020-02-24 22:39:15 INFO  MainTestSimpleAndCompound:11 - This is an info logger
+2020-02-24 22:39:15 DEBUG MainTestSimpleAndCompound:12 - This is a debug logger
+2020-02-24 22:39:15 WARN  MainTestSimpleAndCompound:13 - This is a warn logger
+2020-02-24 22:39:15 ERROR MainTestSimpleAndCompound:14 - This is a error logger
+2020-02-24 22:39:15 FATAL MainTestSimpleAndCompound:15 - This is a fatal logger
+2020-02-24 22:39:15 INFO  SimpleAndCompundInterest:16 - This is Shreya
+2020-02-24 22:39:15 INFO  SimpleAndCompundInterest:22 - Calculating Simple and Compound Interest
+2020-02-24 22:39:15 INFO  SimpleAndCompundInterest:24 - Enter Principle Amount
+2020-02-24 22:39:17 INFO  SimpleAndCompundInterest:29 - Enter Time
+2020-02-24 22:39:18 INFO  SimpleAndCompundInterest:33 - Enter Rate
+2020-02-24 22:39:19 INFO  SimpleAndCompundInterest:37 - Simple Interest is
+2020-02-24 22:39:19 INFO  SimpleAndCompundInterest:38 - 0.36
+2020-02-24 22:39:19 INFO  SimpleAndCompundInterest:43 - Compound Interest is
+2020-02-24 22:39:19 INFO  SimpleAndCompundInterest:44 - 12.36
